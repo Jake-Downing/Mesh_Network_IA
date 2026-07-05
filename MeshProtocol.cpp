@@ -6,3 +6,24 @@ uint8_t broadcastAddress[] = {
     0xFF,0xFF,0xFF,
     0xFF,0xFF,0xFF
 };
+
+void OnDataSent() {
+
+
+}
+
+void OnDataRecv() {
+
+
+}
+
+void setupESPNow() {
+
+
+}
+
+void sendPacket() {
+
+
+}
+
