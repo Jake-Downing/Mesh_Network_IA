@@ -1,0 +1,8 @@
+include "MeshProtocol.h"
+
+MeshPacket packet;
+
+uint8_t broadcastAddress[] = {
+    0xFF,0xFF,0xFF,
+    0xFF,0xFF,0xFF
+};
