@@ -10,6 +10,7 @@
             "includePath": [
                 "/Users/27JakeD/Documents/School/CS IA/source/Mesh_Network_IA/include",
                 "/Users/27JakeD/Documents/School/CS IA/source/Mesh_Network_IA/src",
+                "/Users/27JakeD/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
                 "/Users/27JakeD/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                 "/Users/27JakeD/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
                 "/Users/27JakeD/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos",
@@ -235,7 +236,6 @@
                 "/Users/27JakeD/.platformio/packages/framework-arduinoespressif32/libraries/USB/src",
                 "/Users/27JakeD/.platformio/packages/framework-arduinoespressif32/libraries/Update/src",
                 "/Users/27JakeD/.platformio/packages/framework-arduinoespressif32/libraries/WebServer/src",
-                "/Users/27JakeD/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
                 "/Users/27JakeD/.platformio/packages/framework-arduinoespressif32/libraries/WiFiClientSecure/src",
                 "/Users/27JakeD/.platformio/packages/framework-arduinoespressif32/libraries/WiFiProv/src",
                 "/Users/27JakeD/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
@@ -246,6 +246,7 @@
                 "path": [
                     "/Users/27JakeD/Documents/School/CS IA/source/Mesh_Network_IA/include",
                     "/Users/27JakeD/Documents/School/CS IA/source/Mesh_Network_IA/src",
+                    "/Users/27JakeD/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
                     "/Users/27JakeD/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                     "/Users/27JakeD/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
                     "/Users/27JakeD/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos",
@@ -471,7 +472,6 @@
                     "/Users/27JakeD/.platformio/packages/framework-arduinoespressif32/libraries/USB/src",
                     "/Users/27JakeD/.platformio/packages/framework-arduinoespressif32/libraries/Update/src",
                     "/Users/27JakeD/.platformio/packages/framework-arduinoespressif32/libraries/WebServer/src",
-                    "/Users/27JakeD/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
                     "/Users/27JakeD/.platformio/packages/framework-arduinoespressif32/libraries/WiFiClientSecure/src",
                     "/Users/27JakeD/.platformio/packages/framework-arduinoespressif32/libraries/WiFiProv/src",
                     "/Users/27JakeD/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",

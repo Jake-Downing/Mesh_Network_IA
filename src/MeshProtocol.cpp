@@ -1,4 +1,7 @@
+#include <Arduino.h>
+
 #include "MeshProtocol.h"
+#include "Packet.h"
 
 MeshPacket packet;
 
