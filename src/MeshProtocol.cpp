@@ -48,6 +48,17 @@ void setupESPNow() {
         return;
     }
 
+    esp_now_register_send_cb(OnDataSent);   //define send func
+    esp_now_register_recv_cb(OnDataRecv);   //define recv func
+
+    esp_now_peer_info_t peerInfo = {};
+
+    memcpy(peerInfo.peer_addr, broadcastAddress, 6);
+
+    peerInfo.channel = 0;
+    peerInfo.encrypt = false;
+
+    esp_now_add_peer(&peerInfo);
 }
 
 void sendPacket() {
